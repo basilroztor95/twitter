@@ -1,1 +1,2 @@
 feature1 test 1
+feature1 test 2
